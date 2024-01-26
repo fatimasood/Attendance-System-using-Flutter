@@ -1,4 +1,7 @@
 # attendence_system 
+
+Using Firebase, Sqflite, shared preferences
+
 ![WhatsApp Image 2024-01-27 at 03 08 31_f7c23c1d](https://github.com/fatimasood/Attendance-System-using-Flutter/assets/99716076/b1ea1952-8d96-44d8-85fd-21deb2051d42)
 
 ![WhatsApp Image 2024-01-27 at 03 08 32_04f7f1ec](https://github.com/fatimasood/Attendance-System-using-Flutter/assets/99716076/672d7d92-f5ae-42bd-b010-1c85a34fb7c8)
